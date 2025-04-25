@@ -1,3 +1,4 @@
+* Please download the raw file if it's uploaded in PDF to view 
 # DataProjex
 A collection of Data Science projects and a public service memo from my Science, Tech and Society Minor 
 Projects Included: 
