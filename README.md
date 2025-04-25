@@ -1,4 +1,5 @@
-* Please download the raw file if it's uploaded in PDF to view 
+Please download the raw file if it's uploaded in PDF to view or VIEW at https://docs.google.com/presentation/d/1pAmAoVfVqJQi0qO72PrKiw74wRFvUZYJVKDggjDfLG4/edit?usp=sharing
+
 # DataProjex
 A collection of Data Science projects and a public service memo from my Science, Tech and Society Minor 
 Projects Included: 
